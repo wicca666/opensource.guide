@@ -39,4 +39,4 @@ When referring to a project on GitHub, link to the repository so others can dive
 
 ## More guidance
 
-Understand our [content model](content-model.md) and [audience](personas.md)
+Understand our [content model](content-model.md) and [audience](personas.md)aHR0cHM6Ly9jYWJmb3J1bS5vcmcvMjAxOS8xMC8wOC9iYWxsb3QtZm9ydW0tMTAtcmUtY2hhcnRlci1mb3J1bS1pbmZyYXN0cnVjdHVyZS13b3JraW5nLWdyb3VwLyNWb3RpbmctYnktQ2VydGlmaWNhdGUtQ29uc3VtZXJz
